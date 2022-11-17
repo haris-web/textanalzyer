@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haris-web/textanalzyer/static/css/main.a1d672d6.css",
+    "main.js": "/haris-web/textanalzyer/static/js/main.cc59465b.js",
+    "static/js/787.c238ad39.chunk.js": "/haris-web/textanalzyer/static/js/787.c238ad39.chunk.js",
+    "index.html": "/haris-web/textanalzyer/index.html",
+    "main.a1d672d6.css.map": "/haris-web/textanalzyer/static/css/main.a1d672d6.css.map",
+    "main.cc59465b.js.map": "/haris-web/textanalzyer/static/js/main.cc59465b.js.map",
+    "787.c238ad39.chunk.js.map": "/haris-web/textanalzyer/static/js/787.c238ad39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d672d6.css",
+    "static/js/main.cc59465b.js"
+  ]
+}
